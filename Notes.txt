@@ -1,0 +1,4 @@
+Add this to your project.yml file -->
+
+:module_genarator:
+ :naming: bumpy
